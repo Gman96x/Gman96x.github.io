@@ -40,3 +40,8 @@ img{
   #list{
     line-height: 1.5em;
   }
+
+  footer{
+    text-align: center;
+    font-size: 80%;
+  }
