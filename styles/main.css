@@ -36,3 +36,7 @@ img{
     margin-top: 3em;
     font-size: 105%;
   }
+
+  #list{
+    line-height: 1.5em;
+  }
