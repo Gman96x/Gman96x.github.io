@@ -28,11 +28,11 @@ img{
     float: left;
   }
   
-  p.clear {
+  main {
     clear: left;
   }
 
-  h3{
+  main h3{
     margin-top: 3em;
     font-size: 105%;
   }
