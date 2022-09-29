@@ -19,7 +19,9 @@ html{
     }
     a:focus, a:hover{
         font-style: italic;
-        color: orangered
+        color: orangered;
+        border: 3px blue;
+        border-style: dotted solid;
     }
     header h1{
         font-size: 175%;
@@ -37,6 +39,13 @@ html{
     }
     .shadow {
         text-shadow: 2px 2px 2px rgb(128, 0, 0);
+      }
+      article{
+        width: 70;
+        float: left;
+        column-rule: 2px dotted maroon;
+        column-gap: 2em;
+        margin-left: 2em;
       }
       
       
