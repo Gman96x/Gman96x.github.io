@@ -68,10 +68,8 @@ html{
       float: right;
       padding: 0.1em 1em 1em;
       background-color:  #ffebc6;
-      }
-      footer{
-        clear: both;
-        border-top: 2px solid maroon;
+      border-bottom: 2px solid maroon;
+
       }
 
       footer{
