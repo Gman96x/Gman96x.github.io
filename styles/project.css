@@ -70,6 +70,10 @@ html{
     padding: 0.1em 1em 1em;
     background-color: #ffebc6;
     }
+    header{
+      clear: both;
+      border-top: 2px solid maroon;
+    }
     footer{
       clear: both;
       border-top: 2px solid maroon;
