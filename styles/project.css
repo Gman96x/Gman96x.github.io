@@ -85,7 +85,6 @@ html{
     }
     p.fixed{
       width: auto;
-      float: right;
       position: fixed;
       bottom: 35%;
       right: 0;
