@@ -1,6 +1,8 @@
 
 
-
+article{
+  clear:left
+}
 
 
 #nav_menu ul { list-style-type: none; }
