@@ -6,9 +6,10 @@ article p::first-letter {
     font-weight: bold;
     font-style: italic;
 }
-img{
+img {
     float: left;
-    margin-left: 30px;  
+    margin-left: 30px;
+}
 
 
 
