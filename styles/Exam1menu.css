@@ -1,4 +1,6 @@
-
+article{
+    clear: left;
+}
 article p::first-letter {
     font-size: 8em;
     font-weight: bold;
