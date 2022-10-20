@@ -10,6 +10,15 @@ img {
     float: left;
     margin-left: 30px;
 }
+    
+article img {
+    float: left;
+    margin-right: 1em;
+    margin-bottom: 1em;
+  }
+    
+      
+
 
 ul {
     display: block;
