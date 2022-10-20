@@ -2,7 +2,7 @@ article{
     clear: left;
 }
 article p::first-letter {
-    font-size: 8em;
+    font-size: 6em;
     font-weight: bold;
     font-style: italic;
 }
