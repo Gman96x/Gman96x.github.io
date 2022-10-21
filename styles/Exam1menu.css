@@ -29,7 +29,16 @@ article img {
 
     
 }
-      
+
+article{
+  clear: left;
+  width: 75%;
+  float: left;
+  column-count: 2;
+  column-gap: 2em;
+  margin-left: 2em;
+}
+
 
 
 ul {
