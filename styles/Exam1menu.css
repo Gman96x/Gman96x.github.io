@@ -11,12 +11,9 @@ html{
     bottom: -50px;
     left: 50%;
     border-left: 2px dotted blue;
+  }
 
-
-
-
-
-article{
+article {
     clear: left;
 }
 article p::first-letter {
@@ -48,7 +45,7 @@ article img {
     
 }
 
-article{
+article {
   clear: left;
   width: 75%;
   float: left;
@@ -101,11 +98,11 @@ aside{
 #nav_menu ul li a.current { color: yellow; }
 
 
-header{
+header {
  
   border-bottom: 2px solid blue;
 }
-footer{
+footer {
   clear: both;
   text-align: center;
   border-top: 2px solid blue;
