@@ -3,6 +3,19 @@ html{
   background-image: linear-gradient(to left, white 0%, Lightblue 100%);
   }
 
+  .dashed-lines:after {
+    content:"";
+    position: absolute;
+    z-index: -1;
+    top: -50px;
+    bottom: -50px;
+    left: 50%;
+    border-left: 2px dotted blue;
+
+
+
+
+
 article{
     clear: left;
 }
