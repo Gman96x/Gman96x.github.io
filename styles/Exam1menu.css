@@ -15,7 +15,7 @@ html {
 
 article {
     clear: left;
-    column-rule: 2px dotted maroon;
+    column-rule: 2px dotted blue;
 }
 article p::first-letter {
     font-size: 4em;
