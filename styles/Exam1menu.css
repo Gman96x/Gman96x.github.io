@@ -52,6 +52,7 @@ article {
   margin-left: 2em;
 }
 aside {
+  position:fixed;
   width: 20%;
   border-style: solid;
   float: right;
