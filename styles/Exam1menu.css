@@ -101,7 +101,7 @@ aside {
 
 
 header {
- clear: left;
+ clear: both;
  border-bottom: 2px solid blue;
 }
 footer {
