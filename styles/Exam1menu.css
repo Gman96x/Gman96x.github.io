@@ -56,7 +56,7 @@ aside {
   position:fixed;
   width: 20%;
   border-style: solid;
-  float: right;
+  float: left;
   padding: 0.1em 1em 1em;
   background-color: #ffebc6;
   }
