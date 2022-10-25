@@ -53,7 +53,7 @@ article {
   margin-left: 2em;
 }
 aside {
-  position:fixed;
+  position:fixed right;
   width: 20%;
   border-style: solid;
   float: right;
