@@ -44,6 +44,8 @@ article img {
 }
 
 article {
+  border-left: 1px dotted blue;
+    height: 100px;
   clear: left;
   width: 75%;
   float: left;
