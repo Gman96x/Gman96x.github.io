@@ -5,10 +5,11 @@ html {
 
 
   h1 {
+    column-span: all;
   color: blue;
   }
+
   h2 {
-  column-span: all;
   color: blue;
     }
 
@@ -53,7 +54,8 @@ article {
   margin-left: 2em;
 }
 aside {
-  position:fixed right;
+  position:fixed;
+  right: 0;
   width: 20%;
   border-style: solid;
   float: right;
