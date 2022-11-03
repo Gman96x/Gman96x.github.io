@@ -118,7 +118,7 @@ html, body {
         font-size: .8em;
     }
     
-    /*---------------------------------------------------------------*/
+    
     @media (max-width: 700px) {
     .menu-button-container {
         display: flex;
@@ -173,4 +173,7 @@ html, body {
         text-align: center;
         font-size: .6em;
     }
-}
+    }
+    
+    
+    
