@@ -40,6 +40,7 @@ html, body {
             border-collapse: collapse; 
             border: 2px solid orangered;   
             caption-side: top;
+            
         }
         table.third th {
             background-color: lightgreen;
