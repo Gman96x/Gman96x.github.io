@@ -43,6 +43,7 @@ html, body {
         }
         table.third th {
             background-color: lightgreen;
+            font-style: bold;
         }
         table.third th, table.third td {
             padding: 0.7em;  
