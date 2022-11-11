@@ -50,12 +50,7 @@ html, body {
             border: 2px solid orangered;
         }
          
-            
-    
-
-
-
-    @media only screen and (max-width: 425px) {
+            @media only screen and (max-width: 425px) {
         th, td {
             display: block;
         }
