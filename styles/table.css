@@ -36,32 +36,34 @@ html, body {
     }
 
     table.third {
-            border: 2px solid orangered;
-            border-collapse: collapse;    
-            caption-side: top;
+            
+        border-collapse: collapse;    
+            
             
         }
-        table.third th {
+    table.third thead {
             background-color: lightgreen;
-            font-style: bold;
+            
         }
-        table.third th, table.third td {
+    table.third th, table.third td {
             padding: 0.7em;  
             vertical-align: top;
-            font-style: bold;
+            
             
         }
         
-        table.third thead tr:first-child {
+    table.third thead tr:first-child {
         border-top: 2px solid orangered;
-        background-color: lightgreen;
-        font-style: bold;
+        border-bottom: 2px solid orangered;
+        }
+        table.third thead tr:nth-child(2), table.third tr:last-child {     
+            border-bottom: 2px solid orangered;
         }
             @media only screen and (max-width: 425px) {
         th, td {
             display: block;
         }
-        thead, td.number {
+    thead, td.number {
             display: none;
             padding: 0;
         }    
